@@ -1,8 +1,8 @@
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,50:7c3aed,100:0ea5e9&height=240&section=header&text=Smart%20Healthcare%20Portal%20%F0%9F%8F%A5&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20platform%20connecting%20patients%2C%20doctors%20%26%20admins%20with%20AI%2C%20EHR%20%26%20real-time%20communication&descAlignY=58&descSize=15&descColor=ccfff0&animation=twinkling" alt="Smart Healthcare Portal Banner"/>
+<br/>
+
 <div align="center">
-
-# 🏥 Smart Healthcare Portal
-
-**A full-stack, production-grade healthcare management platform connecting patients, doctors, and administrators through secure role-based dashboards**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
