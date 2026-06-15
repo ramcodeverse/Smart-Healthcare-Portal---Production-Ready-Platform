@@ -4,14 +4,56 @@
 
 **A full-stack, production-grade healthcare management platform connecting patients, doctors, and administrators through secure role-based dashboards**
 
-*React.js · TypeScript · Node.js · Django · MongoDB · MySQL · Socket.IO · WebRTC*
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
 </div>
 
 ---
 
+## 📸 Screenshots
+
+### 🧑‍💼 Patient Portal
+
+**Login**
+![Patient Login](https://github.com/user-attachments/assets/a22b8e52-bf2b-4e94-a7af-63dce7221b98)
+
+**Dashboard**
+![Patient Dashboard](https://github.com/user-attachments/assets/a0e5b591-f0e1-419b-9a87-eed2beb30265)
+
+---
+
+### 👨‍⚕️ Doctor Portal
+
+**Login**
+![Doctor Login](https://github.com/user-attachments/assets/0b826c23-d4f7-406e-99c7-fb73d1de4fa5)
+
+**Dashboard**
+![Doctor Dashboard](https://github.com/user-attachments/assets/5a22cf0a-f5d4-4714-affa-66b3193690fb)
+
+---
+
+### 🏛️ Admin Portal
+
+**Login**
+![Admin Login](https://github.com/user-attachments/assets/2a00eb7a-6f61-49f1-b6e0-029e51990ba8)
+
+**Dashboard**
+![Admin Dashboard](https://github.com/user-attachments/assets/b2ec0785-b2da-46f5-ba32-45fdb6f264ce)
+
+---
+
 ## 📋 Table of Contents
 
+- [Screenshots](#-screenshots)
 - [Overview](#-overview)
 - [Objectives](#-objectives)
 - [Tech Stack](#-tech-stack)
@@ -370,38 +412,6 @@ SMTP_HOST=smtp.gmail.com
 SMTP_USER=your_email@gmail.com
 SMTP_PASS=your_app_password
 ```
-
----
-
-## 📸 Screenshots
-
-### 🧑‍💼 Patient Portal
-
-**Login**
-![Patient Login](https://github.com/user-attachments/assets/a22b8e52-bf2b-4e94-a7af-63dce7221b98)
-
-**Dashboard**
-![Patient Dashboard](https://github.com/user-attachments/assets/a0e5b591-f0e1-419b-9a87-eed2beb30265)
-
----
-
-### 👨‍⚕️ Doctor Portal
-
-**Login**
-![Doctor Login](https://github.com/user-attachments/assets/0b826c23-d4f7-406e-99c7-fb73d1de4fa5)
-
-**Dashboard**
-![Doctor Dashboard](https://github.com/user-attachments/assets/5a22cf0a-f5d4-4714-affa-66b3193690fb)
-
----
-
-### 🏛️ Admin Portal
-
-**Login**
-![Admin Login](https://github.com/user-attachments/assets/2a00eb7a-6f61-49f1-b6e0-029e51990ba8)
-
-**Dashboard**
-![Admin Dashboard](https://github.com/user-attachments/assets/b2ec0785-b2da-46f5-ba32-45fdb6f264ce)
 
 ---
 
