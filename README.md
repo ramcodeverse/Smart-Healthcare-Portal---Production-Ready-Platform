@@ -1,6 +1,5 @@
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,50:7c3aed,100:0ea5e9&height=240&section=header&text=Smart%20Healthcare%20Portal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20platform%20connecting%20patients%2C%20doctors%20%26%20admins%20with%20AI%2C%20EHR%20%26%20real-time%20communication&descAlignY=58&descSize=15&descColor=ccfff0&animation=twinkling" alt="Smart Healthcare Portal Banner"/>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,50:7c3aed,100:0ea5e9&height=240&section=header&text=Smart%20Healthcare%20Portal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20platform%20%E2%80%A2%20Patients%20%C2%B7%20Doctors%20%C2%B7%20Admins%20%E2%80%A2%20AI%20%7C%20EHR%20%7C%20Telemedicine&descAlignY=58&descSize=15&descColor=ccfff0&animation=twinkling" alt="Smart Healthcare Portal Banner"/>
 
 <div align="center">
 
