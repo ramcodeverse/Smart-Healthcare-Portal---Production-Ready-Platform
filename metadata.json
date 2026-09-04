@@ -1,0 +1,6 @@
+{
+  "name": "Smart Healthcare Portal",
+  "description": "Production ready platform for healthcare management with patient, doctor, and admin portals",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
